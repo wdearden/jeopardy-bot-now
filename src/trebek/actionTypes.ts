@@ -1,0 +1,13 @@
+export const EVENT = 'EVENT';
+export const INPUT = 'INPUT';
+export const INTENT = 'INTENT';
+export const NEW_GAME = 'NEW_GAME';
+export const END_GAME = 'END_GAME';
+export const MARK_QUESTION_ANSWERED = 'MARK_QUESTION_ANSWERED';
+export const CREATE_CONTESTANT = 'CREATE_CONTESTANT';
+export const ADJUST_SCORE = 'ADJUST_SCORE';
+export const SET_STUDIOS_ENABLED_BY_DEFAULT = 'SET_STUDIOS_ENABLED_BY_DEFAULT';
+export const CREATE_STUDIO = 'CREATE_STUDIO';
+export const TOGGLE_FEATURE = 'TOGGLE_FEATURE';
+export const SET_TIMEOUT = 'SET_TIMEOUT';
+export const SET_ENABLED = 'SET_ENABLED';
